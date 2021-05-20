@@ -1,1 +1,5 @@
-# guess_my_number_flutter_app
+# guess_my_number
+
+A new Flutter project.
+
+Hope you like it :)
