@@ -79,7 +79,7 @@ class _AppState extends State<App> {
                         ),
                         ElevatedButton(
                           onPressed: () {
-                            /// check if it is at the end of the game or in the middle of the game
+                            /// check if it is the end of the game or the middle of the game
                             if (_textButton == "Reset") {
                               setState(() {
                                 _textButton = "Guess";
